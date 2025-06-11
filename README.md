@@ -1,7 +1,5 @@
 # Database Management Systems (DBMS) - 4th Semester
 
-![Database Banner]([https://w7.pngwing.com/pngs/310/475/png-transparent-database-computer-icons-computer-software-information-database-miscellaneous-angle-information-technology.png](https://vectorified.com/images/repository-icon-12.jpg))
-
 ## Course Overview 📚
 
 This repository contains my work and assignments for the Database Management Systems course during my 4th semester.
