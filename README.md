@@ -1,14 +1,12 @@
 # Database Management Systems (DBMS) - 4th Semester
 
-![Database Banner](https://example.com/your-banner-image.png)
+![Database Banner](https://w7.pngwing.com/pngs/310/475/png-transparent-database-computer-icons-computer-software-information-database-miscellaneous-angle-information-technology.png)
 
 ## Course Overview 📚
 
 This repository contains my work and assignments for the Database Management Systems course during my 4th semester.
-
-**Course Duration:** Spring 2025  
-**Last Updated:** 2025-05-31 12:58:08 UTC  
-**Author:** Anikk1234
+ 
+**Author:** Anik Kirtania
 
 ## Contents 📂
 
